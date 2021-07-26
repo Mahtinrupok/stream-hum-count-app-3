@@ -1,3 +1,4 @@
+gunicorn
 flask
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 appdirs==1.4.4
